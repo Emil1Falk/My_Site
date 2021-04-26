@@ -1,0 +1,130 @@
+.top-container {
+    background-color: cornflowerblue;
+    margin: 0px;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    margin-top: 100px;
+}
+
+.bottom-container {
+    background-color: cornflowerblue;
+    padding: 50px;
+    margin-bottom: 0px;
+}
+
+h1 {
+    margin: 50px auto 0px;
+    font-size: 5.5rem;
+    line-height: 2;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+    color: #02475e;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.profile-pic {
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    border: solid 5px;
+}
+
+.profile p{
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.football-pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.basketball-pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.youtube-link img {
+    width: 50px;
+    height: 50px;
+}
+
+.instagram-link img {
+    width: 50px;
+    height: 50px;
+}
+
+.mail-link img {
+    width: 50px;
+    height: 50px;
+}
+
+.bread-p {
+    font-size: 2.5rem;
+}
+
+p {
+    font-weight: normal;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+
+
+.mountain {
+    margin: auto;
+}
+
+hr{
+    border-style: none;
+    border-top: dotted grey 7px;
+    width: 5%;
+    margin: 100px auto 100px auto;
+}
+
+.contact-me {
+    margin-top: 100px;
+}
+
+.contact-me h3 {
+    margin-top: 50px;
+}
+
+.contact-me p {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.button img{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 100px;
+}
+
+.bottom-container p {
+    margin-top: 30px;
+}
+
